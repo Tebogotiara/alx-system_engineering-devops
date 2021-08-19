@@ -1,2 +1,2 @@
-#1/bin/bash
-lsi -l
+#!/bin/bash
+ls -l
